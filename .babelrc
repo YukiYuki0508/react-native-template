@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "airbnb",
+    "react-native",
+    "flow"
+  ],
+  "retainLines": true
+}
